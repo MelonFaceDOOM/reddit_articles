@@ -3,3 +3,4 @@ search_results/
 data/
 __pycache__/
 venv/
+.idea/
