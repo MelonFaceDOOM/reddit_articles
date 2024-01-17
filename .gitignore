@@ -1,0 +1,5 @@
+config.py
+search_results/
+data/
+__pycache__/
+venv/
